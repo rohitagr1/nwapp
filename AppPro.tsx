@@ -22,7 +22,7 @@ return(
 const  styles = StyleSheet.create({
     container : {
         flex : 1,
-        alignItems : 'center',//horizontal allingment 
+        alignItems : 'center',//horizontal allingment hello hellllllllllllllll
         justifyContent : 'center'//vertical allingmnet
     },
     whitetext : {
